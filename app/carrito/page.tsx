@@ -6,7 +6,7 @@ export default function CarritoPage() {
 
   return (
     <section>
-      <h1>🛒 Tu Carrito de Compra</h1>
+      <h1>Tu Carrito de Compra</h1>
       <table style={{ width: '100%', borderCollapse: 'collapse', marginTop: '20px' }}>
         <thead>
           <tr style={{ borderBottom: '2px solid #333', textAlign: 'left' }}>
